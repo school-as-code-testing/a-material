@@ -1,6 +1,6 @@
 # A Module
 
-> [examples, exercises and guides](../README.md)
+> [examples, exercises and guides](https://github.com/school-as-code-testing/a-module)
 
 introduction to the module
 

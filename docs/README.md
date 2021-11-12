@@ -4,6 +4,15 @@
 
 introduction to the module
 
+- [Learning Objectives](#learning-objectives)
+- [Deliverables](./deliverables.md)
+- [Suggested Study](./suggested-study.md)
+- Chapters
+  - [One](./chapter-1.md)
+  - [Two](./chapter-2.md)
+  - [Three](./chapter-3.md)
+- [Teaching Tips](./teaching-tips.md)
+
 ---
 
 ## Learning Objectives

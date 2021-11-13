@@ -13,3 +13,6 @@ what is covered in the session
 ## After Class
 
 what to focus on after the session, including recommended materials in [the main README](../README.md) and [./suggested-study.md](./suggested-study.md)
+
+- complete the first 5 exercises of `../topic-1`
+- begin the first 3 exercises of `../topic-2`
